@@ -145,4 +145,4 @@ com.farmacia.system
 ### Logs
 - `GET /logs` - Auditoria de ações.
 - `GET /logs/export` - Download CSV de logs.
-```
+````
